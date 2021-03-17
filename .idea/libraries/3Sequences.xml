@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="3Sequences">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../3Sequences/out/artifacts/3Sequences_jar/3Sequences.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
